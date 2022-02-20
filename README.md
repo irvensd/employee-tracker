@@ -34,4 +34,4 @@ Node MySQL 2
 console.table
 
 ## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
+Irvens Dupuy ©2020 All Rights Reserved.
