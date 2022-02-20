@@ -2,7 +2,7 @@
 employee-tracker
 ## 
 Github : https://github.com/irvensd/employee-tracker
-Walkthrough video : 
+Walkthrough video : https://drive.google.com/file/d/1Du2u_o04mE73V_BaTDZwNceKgh5j9qX9/view
 
  ## Description 
  A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
@@ -22,16 +22,9 @@ Walkthrough video :
     
 ## Technologies Use
 Node.js
-
 NPM
-
 MySQL
-
 Inquirer.js
-
 Node MySQL 2
-
-console.table
-
 ## Contributor:
-Irvens Dupuy ©2020 All Rights Reserved.
+Irvens Dupuy ©2022 All Rights Reserved.
