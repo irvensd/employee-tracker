@@ -1,7 +1,7 @@
 # Project Title 
 employee-tracker
-## 
--Github : https://github.com/irvensd/employee-tracker
+## Contact
+-Github : https://github.com/irvensd/employee-tracker.
 -Walkthrough video : https://drive.google.com/file/d/1Du2u_o04mE73V_BaTDZwNceKgh5j9qX9/view
 
  ## Description 
